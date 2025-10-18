@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ZSH_036",
+    "classification": {
+      "classification_code": "CAP-PRM-003",
+      "classification_name": "资本市场-一级市场业务-IPO咨询",
+      "explanation": "研报核心围绕联合动力IPO受理事件，分析发行规模、募资用途及股权结构，属于IPO相关研究与咨询范畴。"
+    },
+    "tags": ["IPO发展前景", "盈利结构分析", "产品市场份额"],
+    "relevant_report": "汇川技术：联合动力IPO受理，第三方电驱动龙头释放盈利弹性",
+    "level": "3",
+    "question": "基于研报《汇川技术：联合动力IPO受理，第三方电驱动龙头释放盈利弹性》。关于公司IPO后的发展潜力，以下说法正确的是？（多选）\n\nA.公司计划通过IPO募资48.6亿元，主要用于新能源车核心零部件生产建设等项目。\nB.公司主要业务为新能源电池制造，IPO资金主要用于电池生产线扩建。\nC.公司凭借电控产品市场份额11%，成为国内第三大电控系统供应商。\nD.公司毛利率已经接近20%，预计IPO后将继续提升，达到25%以上。\nE.预计公司25年收入将同比增长40%至50%，主要得益于新车型贡献增量。",
+    "reference_links": ["https://www.wind.com.cn/","https://www.eastmoney.com/","https://www.cninfo.com.cn/"],
+    "steps": [
+      "A项：根据研报，IPO募资48.6亿元用于新能源车核心零部件生产建设等项目，正确。",
+      "B项：研报没有提到公司主要业务为新能源电池制造，错误。",
+      "C项：公司电控产品份额11%，居国内第三，正确。",
+      "D项：研报指出公司毛利率为16%，未提到20%或25%，错误。",
+      "E项：研报预计公司25年收入同比增长40%至50%，正确。",
+      "正确选项为A、C、E。"
+    ],
+    "number_of_steps": "6",
+    "answer_type": "multiple_choice",
+    "answer": ["A","C","E"],
+    "tools": ["Web Brower"],
+    "number_of_tools": "2",
+    "author_name": "ZhouShihao",
+    "author_affiliation": "Fudan University",
+    "authoring_time": "15min",
+    "remarks": "选择正确描述公司IPO后发展潜力的选项"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ZSH_040",
+    "classification": {
+      "classification_code": "CAP-STR-001",
+      "classification_name": "资本市场-行业与主题研究-行业深度研究",
+      "explanation": "研报涉及天然气分销行业分析，包括行业格局、发展趋势和公司行业地位评估"
+    },
+    "tags": ["主营结构分析", "产能布局", "财务结构判断"],
+    "relevant_report": "昆仑能源：优质燃气分销商，业绩稳健",
+    "level": "3",
+    "question": "基于研报《昆仑能源：优质燃气分销商，业绩稳健》。关于昆仑能源的业务结构和盈利构成，以下说法正确的是？（多选）\n\nA.天然气销售是公司收入和利润的主要来源，占比均超过65%。\nB.公司LNG接收站主要处理自有进口合同量，收益稳定。\nC.LPG销售占收入超过一半，是公司的主业。\nD.公司在建的福建LNG接收站设计接收能力为300万吨/年。\nE.公司负债率较高，近年来现金流承压。",
+    "reference_links": ["https://www.wind.com.cn/","https://www.eastmoney.com/","https://www.cninfo.com.cn/"],
+    "steps": [
+      "A项：研报指出天然气销售收入占80%，利润占65%以上，正确。",
+      "B项：LNG接收站用于接卸中国石油长期合同量，收益稳定，正确。",
+      "C项：LPG销售仅占15%，并非主业，错误。",
+      "D项：福建LNG接收站设计接收能力300万吨/年，正确。",
+      "E项：研报强调公司负债率低、现金充足，错误。",
+      "正确选项为A、B、D。"
+    ],
+    "number_of_steps": "6",
+    "answer_type": "multiple_choice",
+    "answer": ["A", "B", "D"],
+    "tools": ["Web Brower"],
+    "number_of_tools": "1",
+    "author_name": "ZhouShihao",
+    "author_affiliation": "Fudan University",
+    "authoring_time": "20min",
+    "remarks": "该问题考察对公司业务结构和财务状况的理解，需准确提取研报中的数据和描述。"
+  }
+]

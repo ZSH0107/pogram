@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ZSH_038",
+    "classification": {
+      "classification_code": "CAP-STR-001",
+      "classification_name": "资本市场-行业与主题研究-行业深度研究",
+      "explanation": "报告分析扫地机器人行业的技术迭代趋势、竞争格局和行业发展前景，属于行业研究范畴"
+    },
+    "tags": ["AI应用", "行业创新趋势", "盈利预测调整", "估值逻辑验证"],
+    "relevant_report": "石头科技更新报告：扫地机迭代升级，关注CES新品催化",
+    "level": "3",
+    "question": "基于研报《石头科技更新报告：扫地机迭代升级，关注CES新品催化》。以下关于石头科技及扫地机行业趋势的表述，哪些是正确的？（多选）\n\n A.Saros_Z70配备智能机械臂，可实现避障后二次清扫，清洁更彻底。\nB.Saros_Z70具备家庭助手功能，可将物品重新放回指定位置。\nC.Saros_Z70只能识别预设的108个物体，无法新增其他识别项目。\nD.公司上调了2024-2026年EPS预测，主要原因是扫地机国补效果好于预期。\nE.给予公司2025年20倍PE估值，对应目标价259.69元。",
+    "reference_links": ["https://www.wind.com.cn/","https://www.eastmoney.com/","https://www.cninfo.com.cn/"],
+    "steps": [
+      "检查A：研报明确指出Saros_Z70配备智能机械臂，可将避障物移开后返回清洁遗漏区域，A正确。",
+      "检查B：研报说明产品可识别家居用品并重新放置至指定位置，实现二维到三维的空间进化，B正确。",
+      "检查C：研报提及Saros_Z70除预编程的108个物体外，还能利用AI定义新增50个物品，因此“无法新增”表述错误，C错误。",
+      "检查D：研报指出公司因扫地机国补效果好于预期，上调2024-2026年EPS预测，D正确。",
+      "检查E：研报明确给予公司2025年20倍PE，对应目标价259.69元，E正确。",
+      "最终正确选项为A、B、D、E。"
+    ],
+    "number_of_steps": "6",
+    "answer_type": "multiple_choice",
+    "answer": "A,B,D,E",
+    "tools": ["Web Brower"],
+    "number_of_tools": "1",
+    "author_name": "ZhouShihao",
+    "author_affiliation": "Fudan University",
+    "authoring_time": "15min",
+    "remarks": "该问题考察对研报内容的理解和细节把握，适合通过浏览器工具查阅研报进行解答。"
+  }
+]
